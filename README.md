@@ -1,3 +1,4 @@
+```
 EX1
 
 INICIO
@@ -19,3 +20,4 @@ ESCRIURE "Primer valor: ", dades[0]
 ESCRIURE "Últim valor: ", dades[4]
 
 FI
+```
